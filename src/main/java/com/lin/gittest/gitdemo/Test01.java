@@ -14,5 +14,7 @@ public class Test01 {
         System.out.println("git的测试用例-4  update by hot-fix！！！");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("push test");
+
     }
 }
