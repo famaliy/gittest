@@ -9,5 +9,6 @@ package com.lin.gittest.gitdemo;
 public class Test01 {
     public static void main(String[] args) {
         System.out.println("git的测试用例！！！");
+        System.out.println("git的测试用例-2！！！");
     }
 }
